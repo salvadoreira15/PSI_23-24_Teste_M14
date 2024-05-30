@@ -25,7 +25,7 @@ enum Monstro { Troll, Ogre, Elfo, Demónio, Vampiro, Lobisomem, Minion }
 
 Realiza as seguintes instruções:
 
-1. Declara uma lista de `Monstro` e adiciona-lhe um Troll, um Elfo e um Lobisomem. (6v)
+1. Declara uma lista de `Monstro` e adiciona-lhe 3 elementos distintos da enumeração. (6v)
 
         Resposta: ...
     
