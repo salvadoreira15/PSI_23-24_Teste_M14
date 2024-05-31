@@ -15,7 +15,7 @@ Quando acabares, carrega no botão "Commit Changes".
 
 ## Informação do aluno
 
-    Nome: ...
+    Nome: Salvador Eira
 
 ## Considera a seguinte enumeração: (6v)
 
@@ -27,12 +27,68 @@ Realiza as seguintes instruções:
 
 1. Declara uma lista de `Monstro` e adiciona-lhe 3 elementos distintos da enumeração. (6v)
 
-        Resposta: ...
-    
-2. Considera a variável `m`do tipo `Monstro`. Escreve uma linha de código onde atribuis a esta variável o valor do primeiro elemento da lista da instrução anterior. (4v)
+        Resposta:
 
-        Resposta: ...
+class Program
+{
+    static void Main()
+    {
+        List<Monstro> listaDeMonstros = new List<Monstro>();
+
+        listaDeMonstros.Add(Monstro.Troll);
+        listaDeMonstros.Add(Monstro.Vampiro);
+        listaDeMonstros.Add(Monstro.Lobisomem);
+
+        foreach (var monstro in listaDeMonstros)
+        {
+            Console.WriteLine(monstro);
+        }
+    }
+}
+
+    
+3. Considera a variável `m`do tipo `Monstro`. Escreve uma linha de código onde atribuis a esta variável o valor do primeiro elemento da lista da instrução anterior. (4v)
+
+        Resposta:
+   
+class Program
+{
+    static void Main()
+    {
+        List<Monstro> listaDeMonstros = new List<Monstro>();
+
+        listaDeMonstros.Add(Monstro.Troll);
+        listaDeMonstros.Add(Monstro.Vampiro);
+        listaDeMonstros.Add(Monstro.Lobisomem);
+        
+        Monstro m = listaDeMonstros[0];
+
+        Console.WriteLine(m);
+    }
+}
    
 3. Escreve o código de um método que recebe a lista da primeira instrução, e devolve um inteiro indicando quantos elementos existem na lista. O método deve fazer uso de LINQ. (10v)
 
-        Resposta: ...
+        Resposta:
+   
+class Program
+{
+    static void Main()
+    {
+        List<Monstro> listaDeMonstros = new List<Monstro>();
+
+        listaDeMonstros.Add(Monstro.Troll);
+        listaDeMonstros.Add(Monstro.Vampiro);
+        listaDeMonstros.Add(Monstro.Lobisomem);
+
+
+        int quantidade = ContarElementos(listaDeMonstros);
+
+        Console.WriteLine("Quantidade de elementos na lista: " + quantidade);
+    }
+
+    static int ContarElementos(List<Monstro> lista)
+    {
+        return lista.Count();
+    }
+}
